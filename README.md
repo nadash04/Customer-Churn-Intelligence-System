@@ -1,5 +1,4 @@
 # Customer-Churn-Intelligence-System
-# Customer Churn Intelligence System
 
 ## Project Overview
 
